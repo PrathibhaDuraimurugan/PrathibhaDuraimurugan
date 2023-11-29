@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrathibhaDuraimurugan recent Post Graduate in Statistics
+- 👋 Hi, I’m @PrathibhaDuraimurugan recent masters graduate inStatistics
 - 👀 I’m interested in Python, Data Science
 - 💞️ I’m looking to collaborate on Projects, Seeking opportunities to start my career
 - 📫 Reach me in email: @prathibhaduraimurugan07@gmail.com
